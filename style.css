@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background: linear-gradient(to right,green,blue);
+    letter-spacing: 1em;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 100%;
+    color: rgba(0, 0, 0, 0.6);
+    text-transform: capitalize;
+}
+h1{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.8);
+    text-transform: capitalize;
+}
+h3{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.8);
+    text-transform:none;
+    letter-spacing: normal;
+}
+input{
+    border-radius: 14%;
+    background-color: steelblue;
+}
